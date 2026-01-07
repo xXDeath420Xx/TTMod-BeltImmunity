@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeltImmunity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+278462513f571ce662059d48c09229cdd7f3c578")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeltImmunity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeltImmunity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,3 +7,4 @@ C:\Users\crawf\TechtonicaMods\NewMods\BeltImmunity\obj\Debug\net472\BeltImmunity
 C:\Users\crawf\TechtonicaMods\NewMods\BeltImmunity\obj\Debug\net472\BeltImmunity.csproj.CoreCompileInputs.cache
 C:\Users\crawf\TechtonicaMods\NewMods\BeltImmunity\obj\Debug\net472\BeltImmunity.dll
 C:\Users\crawf\TechtonicaMods\NewMods\BeltImmunity\obj\Debug\net472\BeltImmunity.pdb
+C:\Users\crawf\TechtonicaMods\NewMods\BeltImmunity\obj\Debug\net472\BeltImmunity.sourcelink.json
