@@ -1,34 +1,24 @@
-# Belt Immunity
+# BeltImmunity_Updated
 
-Makes the player immune to being pushed by conveyor belts. Walk freely across your factory floor!
+Walk on conveyor belts without being pushed. Updated for EMU 6.x compatibility.
 
-## Features
+## Original Author
 
-- Walk on belts without being pushed
-- No more accidental trips into machinery
-- Toggle via config if desired
+This mod is based on the original work by **Equinox**: [https://thunderstore.io/c/techtonica/p/Equinox/BeltImmunity/](https://thunderstore.io/c/techtonica/p/Equinox/BeltImmunity/)
 
-## Requirements
+## Updated By
 
-- BepInEx 5.4.21+
-- EquinoxsModUtils 6.1.3+
+- **CertiFried** - Updated for EMU 6.x API compatibility and maintained
 
-## Installation
+## Development Assistance
 
-Install via r2modman or manually place the DLL in your BepInEx/plugins folder.
+- **Claude Code** (Anthropic) - AI-assisted development and documentation
 
-## Credits
+## License
 
-- Original mod by Equinox (https://github.com/CubeSuite/TTMod-BeltImmunity)
-- Updated and maintained by CertiFried
+This project is licensed under the **GNU General Public License v3.0** (GPL-3.0).
 
-## Changelog
+## Links
 
-### [1.0.2] - 2025-01-05
-- Updated icon
-
-### [1.0.0] - 2025-01-03
-- Initial updated release
-- Modernized project structure
-- Compatible with latest game version
-- Optimized field caching for better performance
+- **Thunderstore**: [CertiFried's Mods](https://thunderstore.io/c/techtonica/p/CertiFried/)
+- **Original Mod**: [Equinox's BeltImmunity](https://thunderstore.io/c/techtonica/p/Equinox/BeltImmunity/)
